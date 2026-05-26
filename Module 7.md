@@ -1,6 +1,4 @@
-# EXP NO:1 PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
-# Reg no:212224230171
-# Name: M.MUGUNTHAN
+# EXP NO:1A PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
